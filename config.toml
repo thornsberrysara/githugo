@@ -1,4 +1,11 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
 theme = 'githugo' 
+title = 'Sara Thornsberry'
+[params]
+  name = 'Sara Thornsberry'
+  email = 'mailto:thornsberrysara@gmail.com'
+  github = 'https://github.com/thornsberrysara'
+  twitter = 'https://twitter.com/thornsberrysara'
+  linkedin = 'https://linkedin.com/in/thornsberrysara'
+  avatar = 'https://avatars.githubusercontent.com/u/40149173?v=4'
