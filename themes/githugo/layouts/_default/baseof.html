@@ -5,6 +5,15 @@
         {{- partial "header.html" . -}}  
         <main>  
         {{- block "main" . }}{{- end }}
+        <div class="Layout" style="padding-left: 15%; padding-right: 15%; padding-top: 3%;">
+            <div class="Layout-main border">
+              .Layout-main
+            </div>
+          
+            <div class="Layout-sidebar">
+              {{- partial "sidebar.html" . -}}  
+            </div>
+          </div>
         </main>  
         {{- partial "footer.html" . -}}  
     </body>  
