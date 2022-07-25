@@ -12,3 +12,6 @@ title = 'Sara Thornsberry'
   headline = 'Computer ProGlamor'
   location = 'Columbus, OH'
   company = 'TEKsystems'
+
+  overviewheader = 'Hey, my name is Sara'
+  overviewbody = "I'm a software engineer with experience in the infrastructure space as well as development in general. I'm always open to new opportunities and desire to work in DevOps. I really enjoy collaboration and would love to build out some projects with other like-minded developers!I currently work as a Systems Engineer at TEKsystems, working with the Bank of America team. I work with a product called Glassbox, which is a session replay tool that is used to gain insight on customer experience. Most of my day is consumed by automating tasks, onboarding new applications to Glassbox, and working with other development teams to utilize the tool in a way that makes the most sense for their needs. If you're looking for a sicko DevOps Engineer to join your team, let me know!"

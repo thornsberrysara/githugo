@@ -9,6 +9,8 @@ avatar: "{{ replace .Params.Avatar "-" " " | avatar }}"
 headline: "{{ replace .Params.Headline "-" " " | headline }}"
 location: "{{ replace .Params.Location "-" " " | location }}"
 company: "{{ replace .Params.Company "-" " " | company }}"
+overviewheader: "{{ replace .Params.Overviewheader "-" " " | overviewheader }}"
+overviewbody: "{{ replace .Params.Overviewbody "-" " " | overviewbody }}"
 date: {{ .Date }}
 draft: true
 ---
