@@ -2,7 +2,8 @@
 <html lang="{{ .Site.LanguageCode }}">  
     {{- partial "head.html" . -}}  
     <body>  
-        {{- partial "header.html" . -}}  
+        {{- partial "header.html" . -}}
+        {{- partial "nav.html" . -}}  
         <main>  
         {{- block "main" . }}{{- end }}
         <div class="Layout" style="padding-left: 15%; padding-right: 15%; padding-top: 3%;">
